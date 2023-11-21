@@ -8,12 +8,5 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-frontend
-/frontend
-
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-/.vscode/*
-/!.vscode/extensions.json
+frontend/node_modules
+/frontend/node_modules
